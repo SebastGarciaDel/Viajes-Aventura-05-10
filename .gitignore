@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Base de datos local: cambia en cada ejecucion
+*.db
+
+# Variables de entorno y credenciales
+.env

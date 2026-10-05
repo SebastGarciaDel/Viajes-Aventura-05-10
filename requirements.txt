@@ -1,0 +1,12 @@
+# El sistema no tiene dependencias externas.
+#
+# Usa solo la biblioteca estandar de Python, que es el repositorio oficial
+# del lenguaje:
+#   sqlite3   conexion y operaciones sobre la base de datos
+#   hashlib   hash de contrasenas con scrypt
+#   hmac      comparacion de hashes en tiempo constante
+#   os        generacion del salt aleatorio
+#   datetime  fechas de salida, regreso y emision
+#   getpass   lectura de contrasenas sin mostrarlas en pantalla
+#
+# Basta con Python 3.10 o superior.
