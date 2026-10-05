@@ -1,6 +1,6 @@
 """Pruebas de las reglas de negocio. Cada caso intenta violar una regla y
 comprueba que el sistema la rechaza (o, en los casos felices, que la acepta).
-Ejecutar:  py pruebas.py   (usa una base temporal, no toca viajes.db)"""
+Ejecutar:  py pruebas.py   (usa una base temporal, no toca viajes.db), funcionando 05/10"""
 import os
 import sqlite3
 import tempfile
