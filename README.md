@@ -1,5 +1,13 @@
 # Viajes Aventura · Sistema de Gestion
 
+### Integrantes 
+
+Marcela Sepulveda - Lider de proyecto
+Sebastian Garcia
+
+###
+
+
 TI3V21 Programacion Orientada a Objeto Seguro · INACAP Valparaiso
 Evaluacion Sumativa 4 · Unidad 4
 
